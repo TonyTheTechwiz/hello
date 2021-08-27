@@ -1,6 +1,10 @@
 /**
  * Author: Tony Calderon
- *         tcalderon2@husker.unl.edu
+ *
+ * Major: Computer Engineer
+ *
+ * Email: tcalderon2@husker.unl.edu
+ *
  * Date: 2021/08/24
  *
  * A simple hello world program in C
@@ -11,7 +15,9 @@
 
 int main(int argc, char **argv) {
 
-  printf("Tony Calderon\n");
+  printf("Tony Calderon!\n");
+
+  printf("Computer Engineer\n");
 
   return 0;
 }
